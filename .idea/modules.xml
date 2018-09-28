@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/dispatchTouchEventDemo.iml" filepath="$PROJECT_DIR$/dispatchTouchEventDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DispatchTouchEvent.iml" filepath="$PROJECT_DIR$/DispatchTouchEvent.iml" />
     </modules>
   </component>
 </project>

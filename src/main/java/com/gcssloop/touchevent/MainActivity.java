@@ -26,6 +26,10 @@ import android.view.MotionEvent;
 
 import com.gcssloop.touchevent.test.Static;
 
+
+//last update @20180928
+
+
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = Static.TAG1;
 
@@ -53,5 +57,8 @@ public class MainActivity extends AppCompatActivity {
         }
         return super.onTouchEvent(event);
     }
+
+
+
 
 }

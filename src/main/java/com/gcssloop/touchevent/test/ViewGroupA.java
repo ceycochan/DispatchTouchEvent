@@ -67,8 +67,10 @@ public class ViewGroupA extends RelativeLayout {
         if (event.getAction() == MotionEvent.ACTION_DOWN) {
             //Log.i(TAG, Static.onTouchEvent + "小王说做不了");
             //Log.i(TAG, Static.onTouchEvent);
-            Log.i(TAG, Static.onTouchEvent+"正在测试,明天就测试完了");
+            Log.i(TAG, Static.onTouchEvent + "正在测试,明天就测试完了");
         }
         return true;
     }
+
+
 }

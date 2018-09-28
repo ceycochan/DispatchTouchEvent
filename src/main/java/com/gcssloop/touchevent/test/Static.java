@@ -20,6 +20,7 @@
 package com.gcssloop.touchevent.test;
 
 public class Static {
+
     public static String TAG1 = "MainActivity [老板]";
     public static String TAG2 = "RootView     [经理]";
     public static String TAG3 = "ViewGroupA   [组长]";
